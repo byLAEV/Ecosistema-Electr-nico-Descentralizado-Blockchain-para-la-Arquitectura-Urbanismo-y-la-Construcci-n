@@ -242,4 +242,3 @@ Licencia
 
 La licencia y las condiciones de uso de cada componente serán definidas según la naturaleza del material publicado.
 
-Para GitHub, usaría **el título largo como nombre visible del proyecto** y el nombre corto como slug del repositorio. Así la identidad de la tesis queda clara desde la primera visita.
