@@ -1,9 +1,3 @@
-# Ecosistemas Electronicos Descentralizados Blockchain para la Arquitectura, el Urbanismo y la Construcción.
-Tesis de Licenciatura en Arquitectura sobre ecosistemas electrónicos descentralizados basados en Blockchain para la arquitectura, el urbanismo y la construcción. Propone sistemas organizacionales, registros distribuidos y consensos territoriales y mundiales para integrar información, planificación, coordinación, ejecución y trazabilidad.
-
-
-# Ecosistemas Electrónicos Descentralizados Blockchain para la Arquitectura, el Urbanismo y la Construcción
-
 ### Tesis de Licenciatura en Arquitectura
 
 **Sistemas organizacionales basados en consensos territoriales y mundiales**
@@ -145,3 +139,107 @@ Registro histórico de objetos, derechos, obligaciones y transacciones.
         └────────────────┼────────────────┘
                          │
                     TERRITORIO
+
+
+---
+
+Objetivo de la investigación
+
+Explorar y estructurar un modelo de ecosistemas electrónicos descentralizados que pueda servir como infraestructura organizacional para procesos arquitectónicos, urbanísticos, constructivos y territoriales.
+
+La investigación busca establecer conceptos, relaciones, modelos y prototipos que permitan estudiar la integración de tecnología Blockchain con la práctica profesional y los sistemas de organización territorial.
+
+
+---
+
+Alcance
+
+La tesis aborda conceptualmente:
+
+arquitectura;
+
+urbanismo;
+
+construcción;
+
+territorio;
+
+información;
+
+registro;
+
+propiedad;
+
+planificación;
+
+coordinación;
+
+ejecución;
+
+gobernanza;
+
+consensos;
+
+Blockchain;
+
+criptografía;
+
+redes descentralizadas.
+
+
+El proyecto constituye una investigación y propuesta de sistemas, y no pretende sustituir automáticamente las competencias jurídicas, institucionales o profesionales de los sistemas existentes.
+
+
+---
+
+Estructura del repositorio
+
+/docs
+    investigación
+    marco-conceptual
+    consensos-mundiales
+    sistemas-territoriales
+
+/diagrams
+    arquitectura-de-sistemas
+    consensos
+    redes
+    territorio
+
+/prototypes
+    modelos
+    algoritmos
+    demostradores
+
+/research
+    referencias
+    notas
+    comparativas
+
+
+---
+
+Autor
+
+Lerry Alexander Elizondo Villalobos
+LAEV / byLAEV
+
+Licenciatura en Arquitectura
+
+
+---
+
+Estado del proyecto
+
+Investigación en desarrollo.
+
+Este repositorio documenta la evolución conceptual, metodológica y técnica de la tesis, así como los modelos experimentales y sistemas derivados de la investigación.
+
+
+---
+
+Licencia
+
+La licencia y las condiciones de uso de cada componente serán definidas según la naturaleza del material publicado.
+
+Para GitHub, usaría **el título largo como nombre visible del proyecto** y el nombre corto como slug del repositorio. Así la identidad de la tesis queda clara desde la primera visita.
