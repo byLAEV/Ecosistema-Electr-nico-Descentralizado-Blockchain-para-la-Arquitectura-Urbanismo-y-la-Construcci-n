@@ -1,0 +1,2 @@
+# Ecosistema-Electr-nico-Descentralizado-Blockchain-para-la-Arquitectura-Urbanismo-y-la-Construcci-n
+Tesis de Licenciatura en Arquitectura sobre ecosistemas electrónicos descentralizados basados en Blockchain para la arquitectura, el urbanismo y la construcción. Propone sistemas organizacionales, registros distribuidos y consensos territoriales y mundiales para integrar información, planificación, coordinación, ejecución y trazabilidad.
